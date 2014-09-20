@@ -1,5 +1,7 @@
 #### Typographic by [Hélène][1]
 
+![Preview](https://raw.githubusercontent.com/publify/themes-typographic/master/images/large-preview.jpg)
+
 Typographic is the new Typo default theme starting version 5.0.4. It was
 specially designed for this use by [Hélène][2] for [O2source][3].
 
